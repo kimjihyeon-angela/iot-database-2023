@@ -35,4 +35,8 @@ IoT 개발자과정 데이터베이스- MySQL
 2. MySQL 활용
     - BookRentalShop 쿼리 연습
 
-
+## 5일차
+1. MySQL 활용
+    - BookRentalShop 쿼리 연습
+2. 코딩테스트
+    - BookRentalShop
